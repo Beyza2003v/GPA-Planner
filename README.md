@@ -42,7 +42,7 @@ User privacy is a core consideration of this project. Uploaded transcript files 
 
 GPA Planner, üniversite öğrencilerinin geçmiş akademik performanslarını analiz etmelerine, mevcut durumlarını net şekilde görmelerine ve gelecekteki olası senaryoları gerçekçi üniversite kuralları çerçevesinde simüle etmelerine olanak tanıyan etkileşimli bir akademik planlama aracıdır.
 
-Uygulama; transkript PDF’lerinin yüklenmesini, geçmiş ders notlarının gözden geçirilip düzenlenmesini, derslerin müfredat ve seçmeli gereksinimlerle eşleştirilmesini ve hem tamamlanmış hem de planlanan dersler üzerinden dinamik GPA hesaplamasını destekler.
+Uygulama; transkript PDF’lerinin yüklenmesini, geçmiş ders notlarının gözden geçirilip düzenlenmesini, derslerin müfredat ve seçmeli gereksinimlere uygun olarak eşleştirilmesini ve hem tamamlanmış hem de planlanan dersler üzerinden dinamik GPA hesaplamasını destekler.
 
 Geçmiş, mevcut ve gelecek dersleri kapsayan what-if senaryolar sayesinde GPA Planner, akademik karar alma sürecine bütüncül ve esnek bir bakış sunar.
 
@@ -70,5 +70,5 @@ Streamlit ile geliştirilmiş, kullanıcı dostu ve duyarlı bir arayüz sunar.
 
 ---------------------------------------------------------
 🔒 Veri Gizliliği
-Kullanıcı gizliliği bu projenin temel önceliklerinden biridir.Yüklenen transkript dosyaları yerel ve geçici olarak işlenir. Hiçbir transkript verisi saklanmaz, kaydedilmez veya paylaşılmaz. Tüm GPA hesaplamaları yalnızca oturum sırasında gerçekleştirilir.Kullanıcıyı tanımlayabilecek herhangi bir bilgi toplanmaz veya tutulmaz
+Kullanıcı gizliliği bu projenin temel önceliklerinden biridir.Yüklenen transkript dosyaları yerel ve geçici olarak işlenir. Hiçbir transkript verisi saklanmaz, kaydedilmez veya paylaşılmaz. Tüm GPA hesaplamaları yalnızca oturum sırasında gerçekleştirilir. Kullanıcıyı tanımlayabilecek herhangi bir bilgi toplanmaz veya tutulmaz.
 ----------------------------------------------------------------------------------------------------------
