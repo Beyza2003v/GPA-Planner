@@ -30,7 +30,8 @@ Built with Streamlit to provide a responsive and user-friendly interface.
 
 --------------------------------------------------------
 
-🔒 Data Privacy User privacy is a core consideration of this project. Uploaded transcript files are processed locally and temporarily No transcript data is stored, logged, or shared All GPA calculations are performed in-session only No user-identifiable information is collected or retained
+🔒 Data Privacy 
+User privacy is a core consideration of this project. Uploaded transcript files are processed locally and temporarily No transcript data is stored, logged, or shared All GPA calculations are performed in-session only No user-identifiable information is collected or retained
 --------------------------------------------------------------------------------------------------------
 
 📘 Proje Açıklaması (TR)
@@ -65,6 +66,5 @@ Streamlit ile geliştirilmiş, kullanıcı dostu ve duyarlı bir arayüz sunar.
 
 ---------------------------------------------------------
 🔒 Veri Gizliliği
-
 Kullanıcı gizliliği bu projenin temel önceliklerinden biridir.Yüklenen transkript dosyaları yerel ve geçici olarak işlenir. Hiçbir transkript verisi saklanmaz, kaydedilmez veya paylaşılmaz. Tüm GPA hesaplamaları yalnızca oturum sırasında gerçekleştirilir.Kullanıcıyı tanımlayabilecek herhangi bir bilgi toplanmaz veya tutulmaz
 ----------------------------------------------------------------------------------------------------------
