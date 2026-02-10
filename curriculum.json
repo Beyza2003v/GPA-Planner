@@ -1,0 +1,381 @@
+{
+"PREP": {
+  "name": "Prep",
+  "credits": 0,
+  "required": false,
+  "show_only": true
+},
+"COMP 113*": {
+  "name": "Computer Programming (Python)",
+  "type": "requirement",
+  "required": true,
+  "credits": 6,
+  "canonical": "COMP 113",
+  "gpa_included": true,
+  "semester": 1,
+  "options": ["COMP 109", "COMP 113"]
+},
+"COMP 109": {
+  "name": "Computer Programming (JAVA)",
+  "credits": 6,
+  "gpa_included": true,
+  "is_option_course": true
+},
+"COMP 113": {
+  "name": "Computer Programming (Python)",
+  "credits": 6,
+  "gpa_included": true,
+  "is_option_course": true
+},
+"ENG 101": {
+  "name": "English for Academic Purposes I",
+  "credits": 4,
+  "required": true,
+  "semester": 1,
+  "gpa_included": true
+},
+"IE 100": {
+  "name": "Introduction to Industrial Engineering",
+  "credits": 3,
+  "gpa_included": true,
+  "semester": 1,
+  "required": true
+},
+"MATH 115": {
+  "name": "Calculus I",
+  "credits": 7,
+  "gpa_included": true,
+  "semester": 1,
+  "required": true
+},
+"PHYS 103": {
+  "name": "Physics I",
+  "credits": 6,
+  "gpa_included": true,
+  "semester": 1,
+  "required": true
+},
+"PHYS 103L": {
+  "name": "Physics I Lab",
+  "credits": 2,
+  "gpa_included": true,
+  "semester": 1,
+  "required": true
+},
+"TURK 113": {
+  "name": "Turkish Language and Literature I",
+  "credits": 2,
+  "gpa_included": true,
+  "canonical": "TURK 113",
+  "type": "requirement",
+  "semester": 1,
+  "required": true,
+  "options": ["TURK 111", "TURK 113"]
+},
+"ECON 112": {
+  "name": "Economics for Engineering",
+  "credits": 5,
+  "gpa_included": true,
+  "semester": 2,
+  "required": true
+},
+"ENG 102": {
+  "name": "English for Academic Purposes II",
+  "credits": 4,
+  "gpa_included": true,
+  "semester": 2,
+  "required": true
+},
+"IE 104": {
+  "name": "Computational Methods for IE",
+  "credits": 6,
+  "gpa_included": true,
+  "semester": 2,
+  "required": true
+},
+"MATH 116": {
+  "name": "Calculus II",
+  "credits": 7,
+  "gpa_included": true,
+  "semester": 2,
+  "required": true
+},
+"PHYS 104": {
+  "name": "Physics II",
+  "credits": 6,
+  "gpa_included": true,
+  "semester": 2,
+  "required": true
+},
+"PHYS 104L": {
+  "name": "Physics II Lab",
+  "credits": 2,
+  "gpa_included": true,
+  "semester": 2,
+  "required": true
+},
+"HISTR 213": {
+  "name": "Principles of Ataturk and History of the Turkish Republic I",
+  "credits": 2,
+  "required": true,
+  "type": "requirement",
+  "canonical": "HISTR 213",
+  "gpa_included": true,
+  "semester": 3,
+  "options": ["HISTR 211", "HISTR 213"]
+},
+"IE 201": {
+  "name": "Engineering Economics",
+  "credits": 5,
+  "gpa_included": true,
+  "semester": 3,
+  "required": true
+},
+"IE 205": {
+  "name": "Manufacturing Systems",
+  "credits": 5,
+  "gpa_included": true,
+  "semester": 3,
+  "required": true
+},
+"MATH 108": {
+  "name": "Discrete and Combinatorial Mathematics",
+  "credits": 5,
+  "gpa_included": true,
+  "semester": 3,
+  "required": true
+},
+"MATH 211": {
+  "name": "Linear Algebra",
+  "credits": 6,
+  "gpa_included": true,
+  "semester": 3,
+  "required": true
+},
+"MATH 227": {
+  "name": "Probability and Statistics for Engineering I",
+  "credits": 7,
+  "gpa_included": true,
+  "semester": 3,
+  "required": true
+},
+"ACCT 204": {
+  "name": "Financial and Managerial Accounting",
+  "credits": 5,
+  "gpa_included": true,
+  "semester": 4,
+  "required": true
+},
+"HISTR 214": {
+  "name": "Principles of Ataturk and History of the Turkish Republic II",
+  "credits": 2,
+  "required": true,
+  "type": "requirement",
+  "canonical": "HISTR 214",
+  "semester": 4,
+  "gpa_included": true,
+  "options": ["HISTR 212", "HISTR 214"]
+},
+"IE 202": {
+  "name": "Operations Research I",
+  "credits": 6,
+  "gpa_included": true,
+  "semester": 4,
+  "required": true
+},
+"IE 208": {
+  "name": "Operations and Facilities Design",
+  "credits": 5,
+  "gpa_included": true,
+  "semester": 4,
+  "required": true
+},
+"MATH 228": {
+  "name": "Probability and Statistics for Engineering II",
+  "credits": 7,
+  "gpa_included": true,
+  "semester": 4,
+  "required": true
+},
+"HUM/SOC_ELECTIVE": {
+  "type": "elective_slot",
+  "category": "HUM/SOC",
+  "required": true,
+  "gpa_included": true,
+  "semester": 4,
+  "min_credits": 5
+},
+"ENGR 301": {
+  "name": "Technical Report Writing and Presentation",
+  "credits": 4,
+  "gpa_included": true,
+  "semester": 5,
+  "required": true
+},
+"IE 200": {
+  "name": "IE Summer Practice I",
+  "credits": 2,
+  "gpa_included": true,
+  "semester": 5,
+  "required": true
+},
+"IE 301": {
+  "name": "Operations Research II",
+  "credits": 6,
+  "gpa_included": true,
+  "semester": 5,
+  "required": true
+},
+"IE 303": {
+  "name": "Production Planning and Control",
+  "credits": 6,
+  "gpa_included": true,
+  "semester": 5,
+  "required": true
+},
+"IE 307": {
+  "name": "Modeling and Methods in Optimization",
+  "credits": 7,
+  "gpa_included": true,
+  "semester": 5,
+  "required": true
+},
+"MATH/SCI_ELECTIVE": {
+  "type": "elective_slot",
+  "category": "MATH/SCI",
+  "required": true,
+  "gpa_included": true,
+  "semester": 5,
+  "min_credits": 5
+},
+"IE 302": {
+  "name": "Quality Engineering",
+  "credits": 5,
+  "gpa_included": true,
+  "semester": 6,
+  "required": true
+},
+"IE 304": {
+  "name": "Simulation",
+  "credits": 6,
+  "gpa_included": true,
+  "semester": 6,
+  "required": true
+},
+"IE 306": {
+  "name": "Supply Chain Management",
+  "credits": 6,
+  "gpa_included": true,
+  "semester": 6,
+  "required": true
+},
+"TURK 114": {
+  "name": "Turkish Language and Literature II",
+  "credits": 2,
+  "gpa_included": true,
+  "semester": 6,
+  "required": true,
+  "type": "requirement",
+  "canonical": "TURK 114",
+  "options": ["TURK 112", "TURK 114"]
+},
+"DEPT_IE_ELECTIVE_1": {
+  "type": "elective_slot",
+  "category": "DEPT_IE",
+  "min_credits": 6,
+  "semester": 6,
+  "gpa_included": true
+},
+"DEPT_IE_ELECTIVE_2": {
+  "type": "elective_slot",
+  "category": "DEPT_IE",
+  "semester": 7,
+  "min_credits": 6,
+  "gpa_included": true
+},
+"DEPT_IE_ELECTIVE_3": {
+  "type": "elective_slot",
+  "category": "DEPT_IE",
+  "semester": 7,
+  "min_credits": 6,
+  "gpa_included": true
+},
+"DEPT_IE_ELECTIVE_4": {
+  "type": "elective_slot",
+  "category": "DEPT_IE",
+  "semester": 8,
+  "min_credits": 6,
+  "gpa_included": true
+},
+"FREE_ELECTIVE_1": {
+  "type": "elective_slot",
+  "category": "FREE",
+  "min_credits": 5,
+  "semester": 6,
+  "gpa_included": true
+},
+"FREE_ELECTIVE_2": {
+  "type": "elective_slot",
+  "category": "FREE",
+  "min_credits": 5,
+  "semester": 8,
+  "gpa_included": true
+},
+"FREE_ELECTIVE_3": {
+  "type": "elective_slot",
+  "category": "FREE",
+  "min_credits": 5,
+  "semester": 8,
+  "gpa_included": true
+},
+"IE 399": {
+  "name": "IE Summer Practice II",
+  "credits": 3,
+  "gpa_included": true,
+  "semester": 7,
+  "required": true
+},
+"IE 401": {
+  "name": "Information Systems",
+  "credits": 5,
+  "gpa_included": true,
+  "semester": 7,
+  "required": true
+},
+"IE 490": {
+  "name": "IE Senior Design Project I",
+  "credits": 5,
+  "gpa_included": true,
+  "semester": 7,
+  "required": true
+},
+"SOCIALSCIENCE_ELECTIVE": {
+  "type": "elective_slot",
+  "category": "SOCIALSCIENCE",
+  "required": true,
+  "gpa_included": true,
+  "semester": 7,
+  "min_credits": 5
+},
+"ENTR 400": {
+  "name": "Business Skills and Entrepreneurship",
+  "credits": 5,
+  "gpa_included": true,
+  "semester": 8,
+  "required": true
+},
+"HUM 300": {
+  "name": "Engineering Ethics",
+  "credits": 3,
+  "gpa_included": true,
+  "semester": 8,
+  "required": true
+},
+"IE 492": {
+  "name": "IE Senior Design Project II",
+  "credits": 6,
+  "gpa_included": true,
+  "semester": 8,
+  "required": true
+}
+}
