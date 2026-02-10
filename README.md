@@ -34,6 +34,10 @@ Built with Streamlit to provide a responsive and user-friendly interface.
 User privacy is a core consideration of this project. Uploaded transcript files are processed locally and temporarily No transcript data is stored, logged, or shared All GPA calculations are performed in-session only No user-identifiable information is collected or retained
 --------------------------------------------------------------------------------------------------------
 
+
+
+
+
 📘 Proje Açıklaması (TR)
 
 GPA Planner, üniversite öğrencilerinin geçmiş akademik performanslarını analiz etmelerine, mevcut durumlarını net şekilde görmelerine ve gelecekteki olası senaryoları gerçekçi üniversite kuralları çerçevesinde simüle etmelerine olanak tanıyan etkileşimli bir akademik planlama aracıdır.
